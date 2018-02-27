@@ -1,7 +1,7 @@
 # Snake-Processing
-Classic Snake game in Processing (Java)   
-  <img src="C:\Users\Elvin\Documents\Snake" width="350"/>
-Must be ran with Processing IDE (https://processing.org/)     
+Classic Snake game in Processing (Java)
+![Screenshot](screenshot.png)
+Must be ran with Processing IDE (https://processing.org/)   
 
 Controls
 ========
