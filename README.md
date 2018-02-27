@@ -1,6 +1,6 @@
 # Snake-Processing
 <b>Classic Snake game in Processing (Java)</b>      
-![Screenshot](screenshot.PNG){:height="50%" width="50%"}        
+![Screenshot](screenshot.PNG){:height="284px" width="300px"}       
 Must be ran with Processing IDE (https://processing.org/)   
 
 Controls
