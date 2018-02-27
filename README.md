@@ -1,6 +1,6 @@
 # Snake-Processing
-Classic Snake game in Processing (Java)   
-![Screenshot](screenshot.PNG)   
+<p><b>Classic Snake game in Processing (Java)</b></p>   
+![Screenshot](screenshot.PNG)   
 Must be ran with Processing IDE (https://processing.org/)   
 
 Controls
