@@ -1,7 +1,9 @@
 # Snake-Processing
-Classic Snake game in Processing (Java)
-![alt text](C:\Users\Elvin\Documents\Snake)
-Must be ran with Processing IDE (https://processing.org/) 
+Classic Snake game in Processing (Java)   
+<p align="center">
+  <img src="C:\Users\Elvin\Documents\Snake" width="350"/>
+</p>
+Must be ran with Processing IDE (https://processing.org/)     
 
 Controls
 ========
