@@ -1,5 +1,5 @@
 # Snake-Processing
-<p><b>Classic Snake game in Processing (Java)</b></p>   
+<b>Classic Snake game in Processing (Java)</b>  
 ![Screenshot](screenshot.PNG)   
 Must be ran with Processing IDE (https://processing.org/)   
 
